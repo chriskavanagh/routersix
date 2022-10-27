@@ -7,7 +7,6 @@ export default function Root() {
   return (
     <>
       <MainNavigation />
-      <h1 style={{ textAlign: "center" }}>ROOT</h1>
       <main>
         <Outlet />
       </main>
